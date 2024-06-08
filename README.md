@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charm1e
+- 👋 Hi, I’m @Charm1e or Charmie
 - 👀 I’m interested in book.
 - 🌱 I’m currently learning Web design with html, CSS and javascript
 - 💞️ I’m looking to collaborate on ..
